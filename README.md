@@ -1,1 +1,1 @@
-# Automate-Sentiment-Analysis
+# Semantic-Analysis-using-SVMs
